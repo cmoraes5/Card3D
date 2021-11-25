@@ -78,6 +78,7 @@ section .card .box .contentBx
     align-items: center;
     transform-style: preserve-3d;
     transform: rotateY(180deg);
+    border-radius: 8px;
 }
 section .card .box .contentBx div
 {
